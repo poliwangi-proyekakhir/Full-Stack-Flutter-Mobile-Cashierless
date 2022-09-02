@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "665494783534",
+    "project_id": "mobile-cashierless-49f8b",
+    "storage_bucket": "mobile-cashierless-49f8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665494783534:android:82eb8ae242ddb353dd81bf",
+        "android_client_info": {
+          "package_name": "com.example.mobile_cashierless"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665494783534-7mcotpo2b8hqmbv7rieu6r47qqv6r46i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4Yru8GgV2YTGu6sAh0Wb-XeybhtvUIHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665494783534-7mcotpo2b8hqmbv7rieu6r47qqv6r46i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
